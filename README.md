@@ -1,4 +1,3 @@
-## Hi there 
 
 <!--
 **RITHISH01/RITHISH01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello! I'm Code Blaze 👨‍💻
+# Hello! I'm Rithish R 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate software developer focusing on Machine Learning, Blockchain, and Web Development. I love working on new and exciting projects!
+Welcome to my GitHub profile! I'm a passionate software developer focusing on Machine Learning, Data analytics, and Web Development. I love working on new and exciting projects!
 
 ![Banner](https://myimages.com/banner.png)
 
