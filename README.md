@@ -42,17 +42,18 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ### 🏆 Featured Projects:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01&theme=radical)](https://github.com/RITHISH01/RITHISH01) 💻  
-**RITHISH01**: My personal GitHub profile repository where I keep track of my projects, contributions, and tools I frequently use. It's like my GitHub portfolio!
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01&show_owner=true&theme=radical)](https://github.com/RITHISH01/RITHISH01) 💻  
+**RITHISH01**: My personal GitHub profile, showcasing projects and contributions.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze&theme=radical)](https://github.com/RITHISH01/code-blaze) 💻  
-**code-blaze**: A collection of competitive programming problems that I solved. Great way to hone my coding and problem-solving skills.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze&show_owner=true&theme=radical)](https://github.com/RITHISH01/code-blaze) 💻  
+**code-blaze**: A collection of competitive programming problems and solutions.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION&theme=radical)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION) 💻  
-**WINE-QUALITY-PREDICTION**: This project is about predicting wine quality using machine learning models. Worked on data preprocessing, feature selection, and model evaluation.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION&show_owner=true&theme=radical)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION) 💻  
+**WINE-QUALITY-PREDICTION**: Machine learning model to predict wine quality based on chemical properties.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour&theme=radical)](https://github.com/RITHISH01/Fire-Prediction-using-colour) 💻  
-**Fire-Prediction-using-colour**: A computer vision project where I worked on detecting fire in images using color recognition. Super fun and practical!
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour&show_owner=true&theme=radical)](https://github.com/RITHISH01/Fire-Prediction-using-colour) 💻  
+**Fire-Prediction-using-colour**: A computer vision project for detecting fire using color recognition techniques.
+
 
 ---
 
