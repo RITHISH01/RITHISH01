@@ -55,6 +55,6 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### Contribution Graph
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&theme=github-compact)
+[![RITHISH R's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RITHISH01&&theme=xcode)](https://github.com/RITHISH01)
 
 
