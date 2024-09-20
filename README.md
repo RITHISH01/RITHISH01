@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a passionate software developer focusing on Machine Learning, Data analytics, and Web Development. I love working on new and exciting projects!
 
-![Banner](https://myimages.com/banner.png)
 
 ---
 
