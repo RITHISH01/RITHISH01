@@ -36,12 +36,14 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITHISH01&show_icons=true&theme=radical)
 
+
 ### 🏆 Featured Projects:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Text-to-handwriting)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=amazon)](https://github.com/RITHISH01/amazon)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=SDP-crypto-website)](https://github.com/RITHISH01/SDP-crypto-website)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Raspberry-pi-camera-and-audio)](https://github.com/RITHISH01/Raspberry-pi-camera-and-audio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01)](https://github.com/RITHISH01/RITHISH01) 📄
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze)](https://github.com/RITHISH01/code-blaze) ⚡
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION) 🍷
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour)](https://github.com/RITHISH01/Fire-Prediction-using-colour) 🔥
+
 
 ---
 
