@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ---
 
-### 🚀 Languages and Tools:
+### 🚀🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -39,17 +42,18 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ### 🏆 Featured Projects:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01)](https://github.com/RITHISH01/RITHISH01)🔥  
-**RITHISH01**: This is the repo where I maintain my GitHub profile details. It gives an overview of my work, projects, and the tools I frequently use. It’s a simple way to keep everything organized and let others get to know my work at a glance.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze)](https://github.com/RITHISH01/code-blaze)🔥   
-**code-blaze**: Here’s a fun project where I work on competitive programming problems. I’ve added solutions to a variety of algorithmic challenges that have helped me improve my coding efficiency and problem-solving skills. It’s a great space for anyone interested in sharpening their coding chops.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01&show_owner=true&show_icons=true)](https://github.com/RITHISH01/RITHISH01) 💻  
+**RITHISH01**: My personal GitHub profile repository where I keep track of my projects, contributions, and tools I frequently use. It's like my GitHub portfolio!
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION)🔥   
-**WINE-QUALITY-PREDICTION**: This one’s all about predicting wine quality based on a set of chemical properties. It was fun diving into machine learning for this, experimenting with different models, and seeing how well they could predict outcomes based on the data. It's a good example of my data analytics and ML skills.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze&show_owner=true&show_icons=true)](https://github.com/RITHISH01/code-blaze) 💻  
+**code-blaze**: A collection of competitive programming problems that I solved. Great way to hone my coding and problem-solving skills.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour)](https://github.com/RITHISH01/Fire-Prediction-using-colour)🔥  
-**Fire-Prediction-using-colour**: In this project, I explored image processing techniques to detect fire in images using color patterns. It’s a unique blend of computer vision and practical application that could potentially be used for early fire detection systems. This was my first dive into working with color-based prediction models, and I learned a lot in the process.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION&show_owner=true&show_icons=true)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION) 💻  
+**WINE-QUALITY-PREDICTION**: This project is about predicting wine quality using machine learning models. Worked on data preprocessing, feature selection, and model evaluation.
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour&show_owner=true&show_icons=true)](https://github.com/RITHISH01/Fire-Prediction-using-colour) 💻  
+**Fire-Prediction-using-colour**: A computer vision project where I worked on detecting fire in images using color recognition. Super fun and practical!
 
 
 ---
