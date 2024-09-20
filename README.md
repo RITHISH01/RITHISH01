@@ -22,17 +22,17 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### 🚀🛠 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3)
+![Power BI](https://img.shields.io/badge/-F2C811?style=flat-square&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-E97627?style=flat-square&logo=tableau)
+![Visual Studio](https://img.shields.io/badge/-5C2D91?style=flat-square&logo=visual-studio)
+![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github)
+![Arduino](https://img.shields.io/badge/-00979D?style=flat-square&logo=arduino)
+![Git Bash](https://img.shields.io/badge/-4EAA25?style=flat-square&logo=git)
+![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb)
 
 ---
 
