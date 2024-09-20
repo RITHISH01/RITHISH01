@@ -58,3 +58,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rithish-r-0a675723b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/RITHISH_001)
 
+### Contribution Graph
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&theme=github-compact)
+
+
