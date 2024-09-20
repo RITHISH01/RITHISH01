@@ -39,16 +39,16 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ### 🏆 Featured Projects:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01)](https://github.com/RITHISH01/RITHISH01) 📄  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=RITHISH01)](https://github.com/RITHISH01/RITHISH01)🔥  
 **RITHISH01**: This is the repo where I maintain my GitHub profile details. It gives an overview of my work, projects, and the tools I frequently use. It’s a simple way to keep everything organized and let others get to know my work at a glance.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze)](https://github.com/RITHISH01/code-blaze) ⚡  
-code-blaze: Here’s a fun project where I work on competitive programming problems. I’ve added solutions to a variety of algorithmic challenges that have helped me improve my coding efficiency and problem-solving skills. It’s a great space for anyone interested in sharpening their coding chops.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze)](https://github.com/RITHISH01/code-blaze)🔥   
+**code-blaze**: Here’s a fun project where I work on competitive programming problems. I’ve added solutions to a variety of algorithmic challenges that have helped me improve my coding efficiency and problem-solving skills. It’s a great space for anyone interested in sharpening their coding chops.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION) 🍷  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION)🔥   
 **WINE-QUALITY-PREDICTION**: This one’s all about predicting wine quality based on a set of chemical properties. It was fun diving into machine learning for this, experimenting with different models, and seeing how well they could predict outcomes based on the data. It's a good example of my data analytics and ML skills.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour)](https://github.com/RITHISH01/Fire-Prediction-using-colour) 🔥  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour)](https://github.com/RITHISH01/Fire-Prediction-using-colour)🔥  
 **Fire-Prediction-using-colour**: In this project, I explored image processing techniques to detect fire in images using color patterns. It’s a unique blend of computer vision and practical application that could potentially be used for early fire detection systems. This was my first dive into working with color-based prediction models, and I learned a lot in the process.
 
 
