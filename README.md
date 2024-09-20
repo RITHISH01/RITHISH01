@@ -22,17 +22,17 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### 🚀🛠 Languages and Tools:
-![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3)
-![Power BI](https://img.shields.io/badge/-F2C811?style=flat-square&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-E97627?style=flat-square&logo=tableau)
-![Visual Studio](https://img.shields.io/badge/-5C2D91?style=flat-square&logo=visual-studio)
-![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github)
-![Arduino](https://img.shields.io/badge/-00979D?style=flat-square&logo=arduino)
-![Git Bash](https://img.shields.io/badge/-4EAA25?style=flat-square&logo=git)
-![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 
 ---
 
