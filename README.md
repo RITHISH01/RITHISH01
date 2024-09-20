@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Hello! I'm Rithish R 👨‍💻
+<h1 align="center"># 👋 Hello! I'm Rithish R 👨‍💻</h1>
 
 Welcome to my GitHub profile! I'm a passionate software developer focusing on Machine Learning, Data analytics, and Web Development. I love working on new and exciting projects!
 
