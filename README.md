@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ### 🏆 Featured Projects:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Text-to-handwriting)](https://github.com/RITHISH01/Text-to-handwriting)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Text-to-handwriting)](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=amazon)](https://github.com/RITHISH01/amazon)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=SDP-crypto-website)](https://github.com/RITHISH01/SDP-crypto-website)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Raspberry-pi-camera-and-audio)](https://github.com/RITHISH01/Raspberry-pi-camera-and-audio)
