@@ -20,6 +20,8 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ![Banner](https://myimages.com/banner.png)
 
+---
+
 ### 🚀 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -56,6 +58,8 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rithish-r-0a675723b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/RITHISH_001)
+
+---
 
 ### Contribution Graph
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&theme=github-compact)
