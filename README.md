@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ### Profile View's:
 ![Profile Views](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green)
 
 ---
 
