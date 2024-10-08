@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### 🚀🛠 Languages and Tools:
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,figma,html,css,linux,mysql,sqlite,vscode,autocad,ubuntu,sklearn,tensorflow,anaconda,mongodb,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,figma,html,css,linux,mysql,sqlite,vscode,autocad,ubuntu,sklearn,tensorflow,anaconda,mongodb,aws,numpy,pandas)](https://skillicons.dev)
 
 
 ---
