@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### Contribution Graph
-[![RITHISH R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&bg_color=030303&color=ec0914&line=dfeb2d&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RITHISH01's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RITHISH01&theme=dark-smoky)](https://github.com/RITHISH01)
 
 ---
 
