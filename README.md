@@ -59,15 +59,15 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 
 ---
 
-### Contribution Graph
+### Contribution Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&theme=react-dark)](https://github.com/RITHISH01)
 
 ---
 
-### Streak Stats
+### Streak Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RITHISH01&theme=dark-smoky)](https://git.io/streak-stats)
 
-### My Monkeytype Stats 🐒⌨️
+### My Monkeytype Stats 🐒⌨️:
 [Check out my typing stats on Monkeytype!](https://monkeytype.com/profile/RITHISH_R)
 
 
