@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RITHISH01&theme=dark-smoky)](https://git.io/streak-stats)
 
 ### My Monkeytype Stats 🐒⌨️
-[![Monkeytype](https://i.imgur.com/8FKNNK9.png)](https://monkeytype.com/profile/RITHISH_R)
+[Check out my typing stats on Monkeytype!](https://monkeytype.com/profile/RITHISH_R)
 
 
 
