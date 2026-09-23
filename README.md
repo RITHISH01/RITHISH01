@@ -1,415 +1,168 @@
 <div align="center">
 
-# 👋 Hey, I'm Rithish R!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Rithish+R;Software+Developer+%40+TCS;Mainframe+%26+Enterprise+Systems;AI+%2F+ML+%2F+Generative+AI" alt="Typing SVG"/>
 
-### 💻 Software Developer • 🤖 AI/ML Enthusiast • 🖥️ Mainframe Developer • ☁️ Cloud Learner
+<br>
 
 <p>
   <a href="https://github.com/RITHISH01">
-    <img src="https://img.shields.io/badge/GitHub-RITHISH01-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-RITHISH01-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1a1b27" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/rithish-r-0a675723b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rithish%20R-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rithish%20R-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7DCFFF&labelColor=1a1b27" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/RITHISH_001">
-    <img src="https://img.shields.io/badge/X-RITHISH__001-000000?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/X-RITHISH__001-1a1b27?style=for-the-badge&logo=x&logoColor=BB9AF7&labelColor=1a1b27" alt="X Badge"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RITHISH01&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=RITHISH01&style=for-the-badge&color=7AA2F7&labelColor=1a1b27" alt="Profile Views Badge"/>
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Computer Science Engineering graduate** and **Software Developer at TCS**, with interests spanning **Mainframe technologies, Artificial Intelligence, Machine Learning, Cloud Computing, Data Analytics, and Web Development**.
-
-My journey started with **Machine Learning and Web Development**, and has expanded into **enterprise systems, cloud technologies, Generative AI, and LLM-based applications**.
-
-I enjoy understanding how systems work, experimenting with new technologies, solving problems, and turning ideas into practical projects.
-
-* 💼 Software Developer at **TCS**
-* 🖥️ Working with **Mainframe & Enterprise Technologies**
-* 🤖 Exploring **AI, Machine Learning & Generative AI**
-* ☁️ Learning **AWS & Cloud Computing**
-* 📊 Interested in **Data Analytics & Data Science**
-* 🐍 Improving my **Python & DSA skills**
-* 🔗 Exploring **APIs, messaging systems & enterprise integration**
-* 🧠 Always curious about how things work under the hood
-
----
-
-## 🚀 What I'm Currently Exploring
-
-I'm currently focused on growing as a **Software Developer** while exploring the intersection of **enterprise technology and modern AI**.
-
-* 🖥️ Building my experience in **Mainframe application development** and enterprise systems
-* 🔗 Learning how **REST, SOAP, IBM MQ and backend systems** work together in real-world applications
-* 🤖 Exploring **Generative AI and LLMs** and how they can be applied to practical software solutions
-* ☁️ Expanding my knowledge of **AWS and cloud-based AI services**
-* 🐍 Strengthening my **Python, DSA and problem-solving** skills
-* 🛠️ Building personal projects to turn what I learn into **practical, working solutions**
-
-> **Currently:** Learning from enterprise systems while building towards modern AI-powered software development. 🚀
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming & Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,linux,vscode" />
-</p>
-
-<p align="center">
-  <code>Python</code> •
-  <code>C</code> •
-  <code>C++</code> •
-  <code>HTML</code> •
-  <code>CSS</code> •
-  <code>Git</code> •
-  <code>GitHub</code> •
-  <code>Linux</code>
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,anaconda" />
-</p>
-
-<p align="center">
-  <code>Machine Learning</code> •
-  <code>Scikit-learn</code> •
-  <code>TensorFlow</code> •
-  <code>Computer Vision</code>
-  <br>
-  <code>Data Analytics</code> •
-  <code>Generative AI</code> •
-  <code>LLMs</code> •
-  <code>Prompt Engineering</code>
-</p>
-
----
-
-## ☁️ Cloud & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,mysql,sqlite,mongodb" />
-</p>
-
-<p align="center">
-  <code>AWS</code> •
-  <code>Amazon Bedrock</code> •
-  <code>Amazon SageMaker</code>
-  <br>
-  <code>MySQL</code> •
-  <code>SQLite</code> •
-  <code>MongoDB</code>
-</p>
-
----
-
-## 🖥️ Mainframe & Enterprise Technologies
-
-<p align="center">
-
-<code>COBOL</code> • <code>JCL</code> • <code>DB2</code> • <code>VSAM</code> • <code>CICS</code>
-
-<br><br>
-
-<code>REXX</code> • <code>TSO/ISPF</code> • <code>IBM MQ</code> • <code>REST</code> • <code>SOAP</code>
-
-</p>
-
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-### 🟠 AWS Certified AI Practitioner
-
-**Amazon Web Services**
 
 <br>
 
-### 🟣 Claude Certified Developer Foundations
+## About Me
 
-**Anthropic**
+Software Developer at **TCS** with a background in **Computer Science Engineering**, working across **mainframe technologies, enterprise integration, cloud computing, and applied AI/ML**. My work spans building and maintaining enterprise systems on **COBOL/CICS/DB2**, integrating services through **REST, SOAP, and IBM MQ**, and applying **machine learning and Generative AI** to practical problems.
 
-</div>
+I'm interested in the intersection of traditional enterprise engineering and modern AI-driven development — understanding how large-scale systems work reliably, and how newer technologies like LLMs can be applied on top of them.
 
----
-
-# 🧠 Areas of Interest
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 Artificial Intelligence
-
-Machine Learning
-Generative AI
-Large Language Models
-Computer Vision
-AI Applications
-Prompt Engineering
-
-</td>
-
-<td align="center" width="50%">
-
-### ☁️ Cloud Computing
-
-AWS
-Amazon Bedrock
-Amazon SageMaker
-Cloud Architecture
-AI Cloud Services
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🖥️ Enterprise Technology
-
-COBOL
-JCL
-DB2
-CICS
-VSAM
-IBM MQ
-
-</td>
-
-<td align="center">
-
-### 💻 Software Development
-
-Python
-C / C++
-DSA
-REST APIs
-SOAP
-Git & GitHub
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🏆 Featured Projects
-
-<div align="center">
-
-### 🍷 Wine Quality Prediction
-
-<a href="https://github.com/RITHISH01/WINE-QUALITY-PREDICTION">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION&theme=radical&show_owner=true" />
-
-</a>
-
-**Machine Learning project for predicting wine quality based on chemical properties.**
-
-`Python` `Machine Learning` `Scikit-learn`
-
----
-
-### 🔥 Fire Prediction Using Colour
-
-<a href="https://github.com/RITHISH01/Fire-Prediction-using-colour">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour&theme=radical&show_owner=true" />
-
-</a>
-
-**Computer Vision project for detecting potential fire using colour-based image processing.**
-
-`Python` `Computer Vision` `Image Processing`
-
----
-
-### 💻 Code Blaze
-
-<a href="https://github.com/RITHISH01/code-blaze">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze&theme=radical&show_owner=true" />
-
-</a>
-
-**Collection of programming problems and solutions for practicing problem solving and DSA.**
-
-`C` `C++` `Python` `DSA`
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=RITHISH01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-alt="Rithish's GitHub Stats" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITHISH01&layout=compact&langs_count=8&theme=radical"
-alt="Top Languages" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=RITHISH01&theme=radical&hide_border=false"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&theme=react-dark&hide_border=true&area=true"
-alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| 🧠 Area                 | 🎯 Focus                           |
-| :---------------------- | :--------------------------------- |
-| 🐍 **Python**           | Advanced Python & Problem Solving  |
-| 🧩 **DSA**              | Algorithms & Data Structures       |
-| 🤖 **Generative AI**    | LLMs & AI Applications             |
-| ☁️ **AWS**              | Cloud & AI Services                |
-| 🧠 **Machine Learning** | ML Concepts & Projects             |
-| 🖥️ **Mainframe**       | Enterprise Application Development |
-| 🔗 **Integration**      | REST, SOAP & IBM MQ                |
-
-</div>
-
----
-
-# 🎯 My Developer Journey
-
-<div align="center">
-
-```text
-             🎓 Computer Science Engineering
-                         │
-                         ▼
-                🌐 Web Development
-                         │
-                         ▼
-                 🤖 Machine Learning
-                         │
-                         ▼
-                    ☁️ AWS / Cloud
-                         │
-                         ▼
-                  🧠 Generative AI
-                         │
-                         ▼
-                💼 Software Developer
-                         │
-                         ▼
-             🖥️ Mainframe & Enterprise
-                         │
-                         ▼
-                    🚀 What's Next?
+```yaml
+role:        Software Developer @ TCS
+focus:       Mainframe & Enterprise Systems, AI/ML, Cloud Computing
+tools:       Python, COBOL, JCL, DB2, AWS, IBM MQ
+currently:   Deepening DSA, exploring Generative AI applications
 ```
 
-</div>
+<br>
 
----
+## Core Focus Areas
 
-# 🐒⌨️ Monkeytype
+| Area | Details |
+|---|---|
+| 🖥️ **Mainframe & Enterprise** | Application development and maintenance using COBOL, JCL, DB2, VSAM, and CICS |
+| 🔗 **Integration** | Working with REST, SOAP, and IBM MQ to connect enterprise and backend systems |
+| 🤖 **AI / Machine Learning** | Applying ML and Generative AI/LLM concepts to practical software use cases |
+| ☁️ **Cloud** | Building AWS familiarity, including Bedrock and SageMaker for AI workloads |
+| 🐍 **Software Engineering** | Strengthening Python, data structures & algorithms, and problem-solving |
+
+<br>
+
+## Tech Stack
 
 <div align="center">
 
-### Improving my typing speed one keystroke at a time.
+**Languages & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,linux,vscode&theme=dark" alt="Programming and Development Icons"/>
 
-<a href="https://monkeytype.com/profile/RITHISH_R">
+**AI / Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,anaconda,opencv&theme=dark" alt="AI and Machine Learning Icons"/>
 
-<img
-src="https://img.shields.io/badge/Monkeytype-View%20My%20Stats-FFD700?style=for-the-badge&logo=monkeytype&logoColor=black"
-alt="Monkeytype"
-/>
+<sub>Machine Learning · Scikit-learn · TensorFlow · Computer Vision · Generative AI · LLMs · Prompt Engineering</sub>
 
+**Cloud & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,mysql,sqlite,mongodb&theme=dark" alt="Cloud and Database Icons"/>
+
+<sub>AWS · Amazon Bedrock · Amazon SageMaker · MySQL · SQLite · MongoDB</sub>
+
+**Mainframe & Enterprise**
+<br>
+<sub>COBOL · JCL · DB2 · VSAM · CICS · REXX · TSO/ISPF · IBM MQ · REST · SOAP</sub>
+
+</div>
+
+<br>
+
+## Certifications
+
+| Certification | Issuing Organization |
+|---|---|
+| AWS Certified AI Practitioner | Amazon Web Services |
+| Claude Certified Developer Foundations | Anthropic |
+
+<br>
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🍷 [Wine Quality Prediction](https://github.com/RITHISH01/WINE-QUALITY-PREDICTION) | ML model predicting wine quality from chemical composition data | `Python` `Scikit-learn` |
+| 🔥 [Fire Prediction Using Colour](https://github.com/RITHISH01/Fire-Prediction-using-colour) | Computer vision system detecting potential fire via colour-based image analysis | `Python` `OpenCV` |
+| 💻 [Code Blaze](https://github.com/RITHISH01/code-blaze) | A curated collection of DSA problems and solutions for structured practice | `C` `C++` `Python` |
+
+<div align="center">
+
+<a href="https://github.com/RITHISH01/WINE-QUALITY-PREDICTION">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=WINE-QUALITY-PREDICTION&theme=tokyonight&hide_border=true&show_owner=true" alt="Wine Quality Prediction Repo Card"/>
+</a>
+<a href="https://github.com/RITHISH01/Fire-Prediction-using-colour">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=Fire-Prediction-using-colour&theme=tokyonight&hide_border=true&show_owner=true" alt="Fire Prediction Using Colour Repo Card"/>
+</a>
+<br>
+<a href="https://github.com/RITHISH01/code-blaze">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RITHISH01&repo=code-blaze&theme=tokyonight&hide_border=true&show_owner=true" alt="Code Blaze Repo Card"/>
 </a>
 
 </div>
 
----
+<br>
 
-# 💡 Developer Philosophy
+## GitHub Activity
 
 <div align="center">
 
-### **Learn → Build → Break → Fix → Improve → Repeat 🔄**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RITHISH01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rithish's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITHISH01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br>
 
-*"The best way to learn technology is to build with it."*
+<img src="https://streak-stats.demolab.com/?user=RITHISH01&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
----
+<br>
 
-# 🤝 Let's Connect
+## Currently Learning
+
+| Area | Focus |
+|---|---|
+| Python | Advanced language features & problem-solving |
+| DSA | Algorithms and data structures |
+| Generative AI | LLMs and practical AI applications |
+| AWS | Cloud infrastructure and AI services |
+| Mainframe | Enterprise application development |
+| Integration | REST, SOAP & IBM MQ messaging |
+
+<br>
+
+## Career Trajectory
+
+```text
+CS Engineering → Web Development → Machine Learning
+   → Cloud (AWS) → Generative AI → Software Developer
+      → Mainframe & Enterprise Systems → Ongoing growth
+```
+
+<br>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rithish-r-0a675723b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7DCFFF&labelColor=1a1b27" alt="Connect on LinkedIn"/>
 </a>
-
 <a href="https://github.com/RITHISH01">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Follow-GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7&labelColor=1a1b27" alt="Follow on GitHub"/>
 </a>
-
 <a href="https://x.com/RITHISH_001">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" />
+  <img src="https://img.shields.io/badge/Follow-X-1a1b27?style=for-the-badge&logo=x&logoColor=BB9AF7&labelColor=1a1b27" alt="Follow on X"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Code • Learn • Build • Repeat 🚀
-
-**Thanks for visiting my profile!**
 
 </div>
