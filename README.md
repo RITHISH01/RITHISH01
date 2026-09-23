@@ -41,19 +41,18 @@ I enjoy understanding how systems work, experimenting with new technologies, sol
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I'm Currently Exploring
 
-<div align="center">
+I'm currently focused on growing as a **Software Developer** while exploring the intersection of **enterprise technology and modern AI**.
 
-|     💼 Professional     |  🤖 AI & Cloud  | 🖥️ Enterprise |
-| :---------------------: | :-------------: | :------------: |
-|   Software Development  |  Generative AI  |      COBOL     |
-|           TCS           |       LLMs      |       JCL      |
-| Enterprise Applications |       AWS       |       DB2      |
-|     Problem Solving     | AI Applications |      CICS      |
-|   Continuous Learning   | Cloud Computing |     IBM MQ     |
+* 🖥️ Building my experience in **Mainframe application development** and enterprise systems
+* 🔗 Learning how **REST, SOAP, IBM MQ and backend systems** work together in real-world applications
+* 🤖 Exploring **Generative AI and LLMs** and how they can be applied to practical software solutions
+* ☁️ Expanding my knowledge of **AWS and cloud-based AI services**
+* 🐍 Strengthening my **Python, DSA and problem-solving** skills
+* 🛠️ Building personal projects to turn what I learn into **practical, working solutions**
 
-</div>
+> **Currently:** Learning from enterprise systems while building towards modern AI-powered software development. 🚀
 
 ---
 
@@ -118,13 +117,15 @@ I enjoy understanding how systems work, experimenting with new technologies, sol
 
 ## 🖥️ Mainframe & Enterprise Technologies
 
-<div align="center">
+<p align="center">
 
-`COBOL` • `JCL` • `DB2` • `VSAM` • `CICS`
+<code>COBOL</code> • <code>JCL</code> • <code>DB2</code> • <code>VSAM</code> • <code>CICS</code>
 
-`REXX` • `TSO/ISPF` • `IBM MQ` • `REST` • `SOAP`
+<br><br>
 
-</div>
+<code>REXX</code> • <code>TSO/ISPF</code> • <code>IBM MQ</code> • <code>REST</code> • <code>SOAP</code>
+
+</p>
 
 ---
 
